@@ -1,2 +1,4 @@
 # Hello-data-science-iris-flower
-beginner project
+beginner project\
+### 150 data points
+93percent accuracy
